@@ -5,7 +5,7 @@
          ╚██╔╝  ██║    ██╔══██║██╔══╝  ██╔══██╗██╔══╝
           ██║   ██║    ██║  ██║███████╗██║  ██║███████╗
           ╚═╝   ╚═╝    ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝
-        > whoami_ :: a signal in the noise :: since MMXX
+                    > whoami_ :: <fill me in>
 ```
 
 ```ansi
@@ -21,12 +21,11 @@
 
 ```py
 class Me:
-    name        = "yi"
-    pronouns    = ("they", "them")
-    location    = "somewhere in the terminal"
-    status      = "compiling thoughts..."
-    uptime      = "online since the dial-up days"
-    superpower  = "turning ☕ into </code>"
+    name        = "<your name>"
+    pronouns    = "<optional>"
+    location    = "<where>"
+    status      = "<what you're up to>"
+    vibes       = "<one word>"
 ```
 
 ---
@@ -35,24 +34,23 @@ class Me:
 
 ```
 ┌─ languages ──────────────────────────────────────────────┐
-│  python   ▓▓▓▓▓▓▓▓▓░   rust     ▓▓▓▓▓▓░░░░               │
-│  ts/js    ▓▓▓▓▓▓▓▓░░   go       ▓▓▓▓▓░░░░░               │
-│  c / c++  ▓▓▓▓▓▓░░░░   bash     ▓▓▓▓▓▓▓░░░               │
+│  <lang>   ▓▓▓▓▓▓▓▓▓░    <lang>   ▓▓▓▓▓▓░░░░              │
+│  <lang>   ▓▓▓▓▓▓▓▓░░    <lang>   ▓▓▓▓▓░░░░░              │
 └──────────────────────────────────────────────────────────┘
 ┌─ tools ──────────────────────────────────────────────────┐
-│  neovim · tmux · git · docker · k8s · postgres · redis   │
-│  linux · ffmpeg · vim-motions-in-my-sleep                │
+│  <fill in the editors / shells / daily-drivers you use>  │
 └──────────────────────────────────────────────────────────┘
 ```
 
+> fill in the bars and tools above — don't let me invent your resume
+
 ---
 
-## ⟁ WHAT I'M DOING RIGHT NOW
+## ⟁ CURRENTLY
 
--  building tiny tools that do one thing well
--  reading papers I half-understand and shipping anyway
--  tending to a garden of half-finished side projects
--  losing to my past-self at code-golf
+- ░ <something you're building>
+- ░ <something you're learning>
+- ░ <something you're reading>
 
 ---
 
@@ -81,14 +79,14 @@ class Me:
 
 ---
 
-## ⌁ PROJECTS WORTH CLICKING ⌁
+## ⌁ PROJECTS ⌁
+
+<!-- add real ones below; don't ship the placeholders -->
 
 | glyph | project | one-liner |
 |:-----:|:--------|:----------|
-|  ⚙   | `tiny-daemon` | a background worker that refuses to die |
-|  🜁   | `glyphpad` | text editor with too many keybindings |
-|  ∿   | `sine-sketch` | draw shapes with math only, no mouse |
-|  ◈   | `labyrinth` | procedural dungeon generator in 200 LOC |
+|  ◈   | `<repo>` | `<what it does in one line>` |
+|  ◈   | `<repo>` | `<what it does in one line>` |
 
 ---
 
@@ -99,21 +97,14 @@ class Me:
 + code that works AND makes you smile when you read it 6 months later
 ```
 
-```
-"the best error message is the one that never shows up."
-                                       — kathy sierra (kinda)
-```
-
 ---
 
-## 🜏  CONNECT ON THE NET
+## 🜏  CONNECT
 
 ```
 ╭────────────────────────────────────────╮
-│   ▸ github     : @yi-here              │
-│   ▸ email      : yi [at] somewhere.dev │
-│   ▸ matrix     : @yi:matrix.org        │
-│   ▸ signal     : on request            │
+│   ▸ github : <handle>                  │
+│   ▸ <other channel> : <handle>         │
 ╰────────────────────────────────────────╯
 ```
 
