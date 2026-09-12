@@ -1,32 +1,70 @@
-```
-       ██╗   ██╗██╗    ██╗  ██╗███████╗██████╗ ███████╗
-       ╚██╗ ██╔╝██║    ██║  ██║██╔════╝██╔══██╗██╔════╝
-        ╚████╔╝ ██║    ███████║█████╗  ██████╔╝█████╗
-         ╚██╔╝  ██║    ██╔══██║██╔══╝  ██╔══██╗██╔══╝
-          ██║   ██║    ██║  ██║███████╗██║  ██║███████╗
-          ╚═╝   ╚═╝    ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝
+```text
+> researcher. hacker. founder.
+> building systems for the intelligence era.
 ```
 
-```ansi
-╔══════════════════════════════════════════════════════════════╗
-║  [ SYSTEM BOOT ]  ............................  [   OK   ]  ║
-║  [ LOADING ./me ]  ...........................  [   OK   ]  ║
-║  [ CAFFEINE.DLL ]  ...........................  [ LOADED ]  ║
-║  [ SLEEP.EXE    ]  ...........................  [ FAILED ]  ║
-╚══════════════════════════════════════════════════════════════╝
+### ./whoami
+
+I build companies, models, and systems around artificial intelligence.
+
+Currently exploring:
+
+`AI infrastructure` · `agents` · `model routing` · `AI security`
+`alignment` · `evaluation` · `local inference` · `self-improving systems`
+
+Previously built companies.
+Now mostly interested in what happens when software starts thinking.
+
+---
+
+### ./research
+
+Some questions I'm interested in:
+
+→ Can AI systems recursively improve themselves safely?
+→ How fragile is alignment at the weight level?
+→ What does infrastructure look like when models become interchangeable?
+→ Can agent harnesses improve faster than the underlying models?
+→ How do we benchmark agents when benchmarks themselves become training data?
+→ How much intelligence can we run locally?
+
+---
+
+### ./philosophy
+
+```
+research > speculation
+shipping > slides
+experiments > opinions
+open systems > walled gardens
 ```
 
+The interesting question isn't whether AI becomes more powerful.
 
-## ⚡ TERMINAL PHILOSOPHY
+It's what we can build once it does.
 
-```diff
-- code that works
-+ code that works AND makes you smile when you read it 6 months later
+---
+
+### ./status
+
+[████████████████████████████████░░] building...
+
+`founder by day`
+`researcher by night`
+`occasionally breaks things to understand them`
+
+<EOF>
 ```
 
-```
-         .  *  .   . *    .  *  . *  .    .  *
-    *    THANKS FOR SCROLLING   .    *     .
-  .   *   <EOF>   may your builds be green   *   .
-         .  *  .   . *    .  *  . *  .    .  *
+```text
+┌─ CURRENTLY ──────────────────────────────────┐
+│                                              │
+│  hacking     agent security                  │
+│  researching alignment under self-modification
+│  building    OrcaRouter / OrcaCyber          │
+│  running     too many models                 │
+│  location    Tokyo                           │
+│                                              │
+│  last commit ███████████████████░  still alive
+└──────────────────────────────────────────────┘
 ```
