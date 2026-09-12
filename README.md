@@ -55,16 +55,3 @@ It's what we can build once it does.
 
 <EOF>
 ```
-
-```text
-┌─ CURRENTLY ──────────────────────────────────┐
-│                                              │
-│  hacking     agent security                  │
-│  researching alignment under self-modification
-│  building    OrcaRouter / OrcaCyber          │
-│  running     too many models                 │
-│  location    Tokyo                           │
-│                                              │
-│  last commit ███████████████████░  still alive
-└──────────────────────────────────────────────┘
-```
